@@ -19,7 +19,7 @@ Prime numbers validations
 * Almost all numbers are prime
      |Number     |
      |-----------|
-     |11         |
+     |2         |
      |3          |
      |5          |
      |7          |
