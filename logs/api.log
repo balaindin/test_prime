@@ -1,0 +1,240 @@
+21:37:04.410 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+21:37:04.413 Initializing concepts cache with 0 concepts
+21:37:04.414 Watching directory: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs
+21:37:04.414 Found 1 files
+21:37:04.414 Initializing specs cache with 1 specs
+21:37:04.414 Adding specs from C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\example.spec
+21:37:04.414 Initializing steps cache with 3 steps
+21:37:04.816 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+21:37:04.818 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\bmuthuna\\AppData\\Roaming\\gauge\\plugins\\java\\0.5.0\\libs" > 
+21:37:07.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+21:37:07.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+21:37:07.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+21:37:07.245 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+21:37:07.245 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+21:37:07.245 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+21:39:10.646 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:39:10.647 Spec Parse failure: [[ParseError] C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec:1 Spec does not have any elements => '']
+21:40:23.003 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:40:23.005 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:24.802 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:24.807 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:36.362 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:36.366 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:41.435 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:41.448 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:59.592 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:48:59.593 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:15.439 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:15.441 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:19.440 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:19.443 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:44.439 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number \"3\"" hasInlineTable:false > 
+21:49:44.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <3>" parameters:"3" > > 
+21:49:53.480 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a prime number \"3\"" hasInlineTable:false > 
+21:49:53.481 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a prime number {}" parameterizedStepValue:"Is 4 a prime number <3>" parameters:"3" > > 
+21:49:57.350 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a prime number \"4\"" hasInlineTable:false > 
+21:49:57.350 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a prime number {}" parameterizedStepValue:"Is 4 a prime number <4>" parameters:"4" > > 
+21:49:59.525 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:49:59.528 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:50:06.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number \"3\"" hasInlineTable:false > 
+21:50:06.535 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <3>" parameters:"3" > > 
+21:52:43.774 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:52:43.774 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:53:00.448 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:53:00.448 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:53:12.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <3>" hasInlineTable:false > 
+21:53:12.515 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <3>" parameters:"3" > > 
+21:53:14.815 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:53:14.820 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:53:21.832 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:53:21.833 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:55:31.232 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:55:31.232 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:55:36.554 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+21:55:36.555 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+21:55:55.487 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:55:55.491 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:55:59.512 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:55:59.512 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:17.399 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:56:17.414 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:56:18.720 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:56:18.721 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:18.858 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:56:18.859 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:19.033 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:56:19.033 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:22.267 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a prime number \"4\"" hasInlineTable:false > 
+21:56:22.267 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a prime number {}" parameterizedStepValue:"Is 4 a prime number <4>" parameters:"4" > > 
+21:56:35.618 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:56:35.618 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:36.731 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+21:56:36.731 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+21:56:37.799 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a prime number \"4\"" hasInlineTable:false > 
+21:56:37.799 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a prime number {}" parameterizedStepValue:"Is 4 a prime number <4>" parameters:"4" > > 
+21:58:09.332 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a prime number \"4\"" hasInlineTable:false > 
+21:58:09.332 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a prime number {}" parameterizedStepValue:"Is 4 a prime number <4>" parameters:"4" > > 
+21:59:05.003 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:59:05.007 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+21:59:05.135 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a valid prime number \"4\"" hasInlineTable:false > 
+21:59:05.135 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a valid prime number {}" parameterizedStepValue:"Is 4 a valid prime number <4>" parameters:"4" > > 
+21:59:11.793 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a valid prime number \"4\"" hasInlineTable:false > 
+21:59:11.793 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a valid prime number {}" parameterizedStepValue:"Is 4 a valid prime number <4>" parameters:"4" > > 
+22:00:22.536 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 4 a valid prime number <param0>" hasInlineTable:false > 
+22:00:22.536 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 4 a valid prime number {}" parameterizedStepValue:"Is 4 a valid prime number <param0>" parameters:"param0" > > 
+22:00:24.211 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:24.218 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:30.380 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:30.384 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:44.254 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:44.270 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:59.425 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:00:59.427 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:01:09.332 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:01:09.346 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:04:55.603 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:04:55.606 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:07:30.182 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check  \"4\"" hasInlineTable:false > 
+22:07:30.182 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check  {}" parameterizedStepValue:"Check  <4>" parameters:"4" > > 
+22:07:33.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4  \"4\"" hasInlineTable:false > 
+22:07:33.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4  {}" parameterizedStepValue:"Check 4  <4>" parameters:"4" > > 
+22:07:34.166 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for  \"4\"" hasInlineTable:false > 
+22:07:34.166 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for  {}" parameterizedStepValue:"Check 4 for  <4>" parameters:"4" > > 
+22:07:39.078 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:07:39.081 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:07:39.251 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number \"4\"" hasInlineTable:false > 
+22:07:39.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <4>" parameters:"4" > > 
+22:07:40.495 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:40.495 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:40.517 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:40.517 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:40.644 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:40.644 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:41.023 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:41.024 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:41.062 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:41.062 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:41.157 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:07:41.157 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:07:43.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number \"4\"" hasInlineTable:false > 
+22:07:43.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <4>" parameters:"4" > > 
+22:08:45.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:08:45.767 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:08:45.796 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:08:45.799 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:08:52.704 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number \"3\"" hasInlineTable:false > 
+22:08:52.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <3>" parameters:"3" > > 
+22:08:56.279 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 3 for not a prime number \"3\"" hasInlineTable:false > 
+22:08:56.279 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 3 for not a prime number {}" parameterizedStepValue:"Check 3 for not a prime number <3>" parameters:"3" > > 
+22:09:03.407 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:09:03.409 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:09:54.734 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:09:54.739 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:10:45.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:10:45.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:11:06.749 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime" hasInlineTable:false > 
+22:11:06.749 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime" parameterizedStepValue:"Almost all numbers are prime" > > 
+22:12:07.059 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:12:07.068 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:12:11.389 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:11.390 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:11.629 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:11.630 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:11.728 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:11.728 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:11.760 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:11.761 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:11.795 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:11.796 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:12.825 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:12.825 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:12.959 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22:12:12.959 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22:12:15.698 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:12:15.698 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:15:36.263 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:15:36.269 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:18:49.841 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+22:18:49.845 Spec file added / modified: C:\MyFolder\workspaces_eclipse\gauge\Test_Prime\specs\prime.spec
+:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:09:12.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:09:12.509 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:09:12.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:09:12.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:09:12.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:09:12.511 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:09:12.511 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:09:12.511 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:14:41.012 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:14:41.012 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:14:41.017 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:14:41.017 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:14:41.018 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:14:41.018 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:14:41.018 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:14:41.019 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:14:41.019 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:14:41.019 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:14:41.019 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:14:41.020 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:15:43.796 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:15:43.797 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:15:43.802 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:15:43.802 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:15:43.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:15:43.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:15:43.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:15:43.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:15:43.804 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:15:43.804 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:15:43.804 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:15:43.805 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:16:59.816 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:16:59.817 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:16:59.823 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:16:59.823 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:16:59.824 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:16:59.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:16:59.824 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:16:59.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:16:59.825 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:16:59.825 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:16:59.827 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:16:59.827 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:17:59.863 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:17:59.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:17:59.870 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:17:59.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:17:59.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:17:59.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:17:59.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:17:59.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:17:59.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:17:59.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:17:59.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:17:59.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:18:56.433 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:18:56.433 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:18:56.438 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:18:56.439 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:18:56.439 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:18:56.439 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:18:56.440 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:18:56.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:18:56.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:18:56.441 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:18:56.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:18:56.441 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
+22:21:05.181 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+22:21:05.182 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+22:21:05.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 4 for not a prime number <param0>" hasInlineTable:false > 
+22:21:05.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 4 for not a prime number {}" parameterizedStepValue:"Check 4 for not a prime number <param0>" parameters:"param0" > > 
+22:21:05.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all numbers are prime <table>" hasInlineTable:false > 
+22:21:05.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all numbers are prime {}" parameterizedStepValue:"Almost all numbers are prime <table>" parameters:"table" > > 
+22:21:05.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+22:21:05.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+22:21:05.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+22:21:05.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+22:21:05.189 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Is 3 a prime number <param0>" hasInlineTable:false > 
+22:21:05.189 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Is 3 a prime number {}" parameterizedStepValue:"Is 3 a prime number <param0>" parameters:"param0" > > 
